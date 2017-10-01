@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/jeeva/Desktop/ActivityLister/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="ec96630361bcc2389dc1a9d732a4c6ee65821a8d">
+        <dex dex="/Users/jeeva/Desktop/ActivityLister/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcd7a83db12fc09e68f94d7a72ba4e9ed6bc6542/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/jeeva/Desktop/ActivityLister/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/jeeva/Desktop/ActivityLister/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc5d14e6db00ecc9f2cd263a89d0567fcecd91ad/classes.dex" />
+    </item>
+
+</items>

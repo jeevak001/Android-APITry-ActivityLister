@@ -1,0 +1,7 @@
+#Sun Oct 01 07:27:06 IST 2017
+base.0=/Users/jeeva/Desktop/ActivityLister/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcd7a83db12fc09e68f94d7a72ba4e9ed6bc6542
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/jeeva/Desktop/ActivityLister/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc5d14e6db00ecc9f2cd263a89d0567fcecd91ad/classes.dex
+base.1=/Users/jeeva/Desktop/ActivityLister/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_bc5d14e6db00ecc9f2cd263a89d0567fcecd91ad
+file.0=/Users/jeeva/Desktop/ActivityLister/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bcd7a83db12fc09e68f94d7a72ba4e9ed6bc6542/classes.dex
